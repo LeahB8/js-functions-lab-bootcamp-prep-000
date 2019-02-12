@@ -5,19 +5,19 @@ function happyHolidays(){
 
 
 
-var name = "Shemar"
-
 function happyHolidaysTo(name){
   return (`Happy holidays, ${name}!`)
+  var name = "Shemar"
 }
 
 
 
-  var name = "Shemar"
-  var holiday = "Valentine's Day"
+  
 
 function happyHolidayTo(holiday, name){
   return (`Happy ${holiday}, ${name}!`)
+  var name = "Shemar"
+  var holiday = "Valentine's Day"
 }
 
 
